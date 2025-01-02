@@ -14,3 +14,5 @@ https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=aarch64-
 https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#debian
 
 https://docs.nvidia.com/jetson/jetpack/install-setup/index.html
+
+https://developer.download.nvidia.com/assets/embedded/secure/jetson/Nano/docs/DA-09753-001_v1.0.pdf?__token__=exp=1735822600~hmac=3028aa5499fac06388cb7524bb207e33de96e6fcaf4c9fb047fc64321095c16c&t=eyJscyI6IndlYnNpdGUiLCJsc2QiOiJkZXZlbG9wZXIubnZpZGlhLmNvbS8ifQ==
