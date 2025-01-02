@@ -3,6 +3,10 @@ A curated collection of links to documentation, tutorials, and resources for NVI
 
 https://pytorch.org/TensorRT/getting_started/jetpack.html#jetpack-6-1
 
+https://pytorch.org/docs/stable/index.html
+
+https://pytorch.org/get-started/previous-versions/
+
 https://developer.nvidia.com/how-to-cuda-python
 
 https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=aarch64-jetson&Compilation=Native&Distribution=Ubuntu&target_version=22.04&target_type=deb_local
